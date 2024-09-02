@@ -116,7 +116,7 @@
     "uniqCompNum": 36,
     "versionPublish": "5.3.0",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "screenshot": "screenshot.png"
   },
   "pages": {
